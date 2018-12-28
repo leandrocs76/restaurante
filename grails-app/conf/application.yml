@@ -108,9 +108,9 @@ environments:
     production:
         dbCreate: create
             driverClassName: com.mysql.jdbc.Driver
-            username:
-            password:
-            url: jdbc:mysql://enqhzd10cxh7hv2e.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/q7icnjew7zs5ymxl
+            username: c2ul5se552lns37b
+            password: cnv4fqm1ql7laqxz
+            url: jdbc:mysql://erxv1bzckceve5lh.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/uvork7ssoq5wx20x
             properties:
                 jmxEnabled: true
                 initialSize: 5
